@@ -9,7 +9,7 @@ Main Classes
 The program is organized into three main classes, each representing a different data structure: BinaryTree, BinarySearchTree, and Heap. Each class has specific functions to perform operations on these data structures:
 
 1. BinaryTree
-2. This class represents a basic binary tree, where each node has at most two child nodes (left and right).
+This class represents a basic binary tree, where each node has at most two child nodes (left and right).
 ~ Key Functions
 • insert(int val)
 Adds a new node with the value val to the tree.
